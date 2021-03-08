@@ -762,7 +762,7 @@ section {
 }
 
 .services .title {
-  margin-left: 40px;
+
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -779,7 +779,7 @@ section {
 
 .services .description {
   font-size: 14px;
-  margin-left: 40px;
+
   line-height: 24px;
   margin-bottom: 0;
 }
@@ -1577,4 +1577,8 @@ section {
 fimg{
   max-width:400;
   width:80%;
+}
+
+yearn{
+  color: #ff9900;
 }
