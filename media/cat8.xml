@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://www.morph.com.tw/blog/55/特殊需求兒童入小學家長究極心法</loc>
-   <news:news>
-   <news:publication>
-     <news:name>蛹之生心理諮商所</news:name>
-     <news:language>zh-tw</news:language>
-   </news:publication>
-   <news:publication_date>2019-07-18</news:publication_date>
-     <news:title>特殊需求兒童入小學家長究極心法</news:title>
-    </news:news>    
-  </url>
-  </urlset>
-  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-    <url>
-    <loc>https://www.morph.com.tw/blog/1/心理治療在早期療育裡扮演什麼角色</loc>
-       <news:news>
-   <news:publication>
-     <news:name>蛹之生心理諮商所</news:name>
-     <news:language>zh-tw</news:language>
-   </news:publication>
-   <news:publication_date>2019-06-15</news:publication_date>
-     <news:title>心理治療在早期療育裡扮演什麼角色？</news:title>
-    </news:news>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>蛹之生心理諮商所</title>
+  <link>https://www.morph.com.tw/blog</link>
+  <description> 這樣綺麗迷人，奇幻地不可思議，又充滿了努力不懈與冒險刻苦的蛻變過程，完全可與人類的心理發展與成長過程相比擬，是「蛹之生」命名的由來， 在完成「全然轉化」或「完全蛻變」的過程中，個體可能需要協助整合生命早期的各種小轉化；或者，陪伴渡過因抗拒或轉換而產生的情緒脆弱與赤裸無助的時期</description>
+  <item>
+    <title>特殊需求兒童入小學家長究極心法</title>
+    <link>https://www.morph.com.tw/blog/55/特殊需求兒童入小學家長究極心法</link>
+    <description>恭喜熬過艱辛早療、幼兒期的孩子與家長們，接下來孩子進階成為小一新鮮人囉！相信此刻心中，擔憂可能多於高興，先是要考慮上不上正音班、入小體驗營、英/國/數先修班，後是要擔心學業、人際相處，特別是當孩子有特殊需求時，更加緊張會跟不上、被霸凌、造成老師困擾…；而坊間又有太多爆炸資訊，正無意識加劇我們內在的焦躁，光想實在太可怕了！</description>
+    <pubDate>2019-07-18</pubDate>
+    <enclosure>https://www.morph.com.tw/upload/7c4297321ec13c293393.jpg</enclosure>
+  </item>  
+  <item>
+    <title>心理治療在早期療育裡扮演什麼角色？</title>
+    <link>https://www.morph.com.tw/blog/1/心理治療在早期療育裡扮演什麼角色</link>
+    <description>心理師於早期療育路上，除了心理治療、直接協助孩子外，同時也與家長建立療育同盟，增進家長的親職教養功能與技巧，幫助家長認識了解孩子、認識疾病的影響，並透過有效的教養方式，讓孩子遲緩困難得以在黃金治療時間獲得改善，進而穩定發展身、心健康與建立良好親子關係。</description>
+    <pubDate>2019-06-15</pubDate>
+    <enclosure>https://www.morph.com.tw/upload/6231e2ff55df1b0b1c54.png</enclosure>
+  </item>
+  
+</channel>
+
+</rss>
